@@ -5,6 +5,7 @@
   Heyyo 👋
 </div>
 <br/>
+
 <div align="center">
   <a href="https://vk.com/mr.gordon_friman">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png" width="20px" height="20px" />
@@ -14,10 +15,8 @@
   </a>
   <img src="https://www.codewars.com/users/Pjery3/badges/micro">
 </div>
-<br/>
-<div align="center">
-    
-</div>
+<hr/>
+
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmdlYTZndGhvYTN0Zm96MzlxZ3h0bDg0cXFocmNueWs2MTFnYzVlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VPpkvgTIJ817dfQOXI/giphy.gif" height="100" width="100%">
   Minem isemem Sergei и я из  ~~крупного~~  города Naberzhny Chelny. Славится городок потрясающей туалетной бумагой :+1: и крупным предприятием, всемирно известный KAMAZ.
@@ -25,6 +24,7 @@
 <div>
   Специализируюсь во frontend разработке, так же совсем чууучуть битриксоид, хвала небесам окончательную форму не принял.
 </div>
+<hr/>
 
 ### :hammer_and_wrench: Багаж знаний :
 
@@ -42,7 +42,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
 </div>
-</br>
+<hr/>
+
 <div>
   
   ### :fire: Немножко циферок :
@@ -50,6 +51,8 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pjery3&theme=dark&background=000000)](https://git.io/streak-stats) <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pjery3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+<hr/>
 
 <div>
 
