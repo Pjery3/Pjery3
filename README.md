@@ -7,6 +7,16 @@
 </div>
 <br/>
 <div align="center">
+  <img src="https://www.codewars.com/users/Pjery3/badges/micro">
+  <a href="https://vk.com/mr.gordon_friman">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png" width="20px" height="20px" />
+  </a>
+  <a href="https://t.me/username">
+    <img src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/telegram-512.png" width="20px" height="20px" />
+  </a>
+</div>
+<br/>
+<div align="center">
     
 </div>
 <div align="center">
@@ -33,6 +43,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
 </div>
+</br>
+
+  ### :fire: Немножко циферок :
+    
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pjery3&theme=dark&background=000000)](https://git.io/streak-stats) <br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pjery3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Pjery3/Pjery3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
