@@ -11,7 +11,7 @@
   <a href="https://vk.com/mr.gordon_friman">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png" width="20px" height="20px" />
   </a>
-  <a href="https://t.me/username">
+  <a href="https://t.me/Pjery3">
     <img src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/telegram-512.png" width="20px" height="20px" />
   </a>
 </div>
